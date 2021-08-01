@@ -79,7 +79,7 @@ functools32==3.2.3.post2
 slycot==0.3.0
 tables==3.4.4
 colorcet==0.9.1
-Jinja2==2.10
+Jinja2==2.11.3
 MarkupSafe==1.0
 packaging==17.1
 coverage==4.0.3
