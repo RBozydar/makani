@@ -1,5 +1,5 @@
 # Used for a variety of configuration files.
-PyYAML==5.1.1
+PyYAML==5.4
 
 # Google API client.
 google-api-python-client==1.7.7
