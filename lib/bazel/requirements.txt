@@ -139,7 +139,7 @@ SocksiPy-branch==1.1
 subprocess32==3.5.4
 tornado==5.1.1
 uritemplate==3.0.0
-urllib3==1.25.3
+urllib3==1.26.5
 
 # For starting local Colab runtimes so they can use Makani scripts.
 jupyter-http-over-ws==0.0.7
