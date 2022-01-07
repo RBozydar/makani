@@ -11,7 +11,7 @@ ctypeslib2==2.2.1
 
 # Numerical libraries.
 control==0.8.0
-cvxopt==1.2.3
+cvxopt==1.2.7
 h5py==2.7.1
 matplotlib==2.0.0
 numpy==1.14.6
